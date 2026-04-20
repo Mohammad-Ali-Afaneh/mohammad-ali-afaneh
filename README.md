@@ -1,7 +1,7 @@
 #  Hi, I'm Mohammed Afaneh
 
-💻 Full-Stack Developer | Laravel & Vue.js  
-🚀 Passionate about building scalable web applications and real-world systems  
+ Full-Stack Developer | Laravel & Vue.js  
+ Passionate about building scalable web applications and real-world systems  
 
 ---
 
